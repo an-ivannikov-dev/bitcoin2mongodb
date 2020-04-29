@@ -1,4 +1,4 @@
 # bitcoin2mongodb
 
-## bitcoin2mongodb-js
-[bitcoin2mongodb-nodejs](https://github.com/an-ivannikov-dev/bitcoin2mongodb-nodejs)
+## bitcoin2mongodb-node
+[bitcoin2mongodb-node](https://github.com/an-ivannikov-dev/bitcoin2mongodb-node)
